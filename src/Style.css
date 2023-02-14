@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid rgb(209, 222, 228);
+    height: 80%;
+    padding: 30px;
+    width: 20%;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: rgb(194, 192, 192);
+}
+.circle{
+    background-color: yellow;
+    border: none;
+    text-align: center;
+    padding: 20px;
+    border-radius: 50%;
+}
+.btn{
+    border:none;
+    background-color: yellow;
+    color:black;
+}
+.btn2{
+    /* background-color:red; */
+    margin-left: 10%;
+     width: 10%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
